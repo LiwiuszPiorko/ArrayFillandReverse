@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Names {
     public static void main(String[] args){
         String[] tab = new String[5];
+        System.out.println("Wpisz pięć przypadkowych imion:");
 
         Scanner imiona = new Scanner(System.in);
 
